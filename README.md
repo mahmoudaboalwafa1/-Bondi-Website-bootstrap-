@@ -22,14 +22,14 @@ https://mahmoudaboalwafa1.github.io/-Bondi-Website-bootstrap-/
 ------------------------------------------------------------------------------------------------------------------------------
 
 <div>
-  <img src="https://github.com/mahmoudaboalwafa1/-Bondi-Website-bootstrap-/assets/109794013/97177698-7081-4e2d-a5ae-1cc8c133a4ab" title="we are good at"/>
-  <img src="https://github.com/mahmoudaboalwafa1/-Bondi-Website-bootstrap-/assets/109794013/ce935703-c8af-4d22-87dc-3403fe55db81" title="we are good at"/>
+  <img src="https://github.com/mahmoudaboalwafa1/-Bondi-Website-bootstrap-/assets/109794013/97177698-7081-4e2d-a5ae-1cc8c133a4ab" title="we are good at" width="45%" height="300"/>
+  <img src="https://github.com/mahmoudaboalwafa1/-Bondi-Website-bootstrap-/assets/109794013/ce935703-c8af-4d22-87dc-3403fe55db81" title="we are good at" width="45%" height="300"/>
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 <div>
-  <img src="https://github.com/mahmoudaboalwafa1/-Bondi-Website-bootstrap-/assets/109794013/3a897996-8c78-49ca-ae24-65ae783bed1f" title="team"/>
+  <img src="https://github.com/mahmoudaboalwafa1/-Bondi-Website-bootstrap-/assets/109794013/3a897996-8c78-49ca-ae24-65ae783bed1f" title="team" width="45%" height="300"/>
   <img src=https://github.com/mahmoudaboalwafa1/-Bondi-Website-bootstrap-/assets/109794013/c60e3e80-991b-44e8-a0a0-4619b0a005b8" 
- title="team"/>
+ title="team" width="45%" height="300"/>
 </div>
