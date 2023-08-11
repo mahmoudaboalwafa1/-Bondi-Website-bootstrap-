@@ -8,8 +8,8 @@ HTML - HTML5 - CSS - CSS3 - Bootstrap
 https://mahmoudaboalwafa1.github.io/-Bondi-Website-bootstrap-/
 
 <div>
-<img src="https://github.com/mahmoudaboalwafa1/-Bondi-Website-bootstrap-/assets/109794013/10d1969c-2902-44a0-b82e-bc3cab4d295b" title="Bondi Website" width="50%" height="300">
-<img src="https://github.com/mahmoudaboalwafa1/-Bondi-Website-bootstrap-/assets/109794013/23e9d3d4-b77b-4807-81db-3b7d4b73dd1e" title="Bondi Website" width="50%" height="300">
+<img src="https://github.com/mahmoudaboalwafa1/-Bondi-Website-bootstrap-/assets/109794013/10d1969c-2902-44a0-b82e-bc3cab4d295b" title="Bondi Website" width="48%" height="300">
+<img src="https://github.com/mahmoudaboalwafa1/-Bondi-Website-bootstrap-/assets/109794013/23e9d3d4-b77b-4807-81db-3b7d4b73dd1e" title="Bondi Website" width="48%" height="300">
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------------
