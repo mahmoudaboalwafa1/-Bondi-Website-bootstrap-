@@ -1,10 +1,8 @@
 # Bondi-Website-bootstrap-
 
 Tools:
-
 ```
 HTML - HTML5 - CSS - CSS3 - Bootstrap
-
 ```
 #### Live Preview:
 https://mahmoudaboalwafa1.github.io/-Bondi-Website-bootstrap-/
